@@ -1,1 +1,3 @@
 # Employee_Absenteeism
+
+This project focusses on building models that analyze the chances of an employee being excessively or moderately absent based on given parameters like the number of kids he has, his highest qualification, his age, BMI, etc. I've used Logistic Regression to predict the results. The original dataset does not include any missing values which makes the entire thing a lot less realistic. However there are lots of useful techniques used like standardizing the dataset and categorizing the values into separate features. Also most of it is well commented so that people with very little knowledge of data preprocessing can feel at home.
